@@ -17,3 +17,12 @@ When enough light is received, the sensor reports the RGB components of the rece
 This work is inspired by the [Piano Glove](https://learn.adafruit.com/pianoglove) project.
 
 ![Piano_glove](https://cdn-learn.adafruit.com/assets/assets/000/010/099/small240/flora_IMG_2874.jpg?1396902320)
+
+
+Learn more about:
+- [Color Theory](https://en.wikipedia.org/wiki/Color_theory)
+- [MIDI](https://en.wikipedia.org/wiki/MIDI)
+- [BLE-MIDI](https://github.com/lathoub/Arduino-BLE-MIDI)
+- [MIDI over Bluetoot](https://learn.adafruit.com/introducing-the-adafruit-nrf52840-feather/blemidi)
+- [Musical scales](https://en.wikipedia.org/wiki/Scientific_pitch_notation)
+- [TCS3472 Specs Sheet](https://cdn-shop.adafruit.com/datasheets/TCS34725.pdf)
