@@ -16,4 +16,4 @@ When enough light is received, the sensor reports the RGB components of the rece
 
 This work is inspired by the [Piano Glove](https://learn.adafruit.com/pianoglove) project.
 
-![Piano_glove](https://learn.adafruit.com/assets/10099)
+![Piano_glove](https://cdn-learn.adafruit.com/assets/assets/000/010/099/small240/flora_IMG_2874.jpg?1396902320)
