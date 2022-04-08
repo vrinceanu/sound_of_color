@@ -23,6 +23,6 @@ Learn more about:
 - [Color Theory](https://en.wikipedia.org/wiki/Color_theory)
 - [MIDI](https://en.wikipedia.org/wiki/MIDI)
 - [BLE-MIDI](https://github.com/lathoub/Arduino-BLE-MIDI)
-- [MIDI over Bluetoot](https://learn.adafruit.com/introducing-the-adafruit-nrf52840-feather/blemidi)
+- [MIDI over Bluetooth](https://learn.adafruit.com/introducing-the-adafruit-nrf52840-feather/blemidi)
 - [Musical scales](https://en.wikipedia.org/wiki/Scientific_pitch_notation)
 - [TCS3472 Specs Sheet](https://cdn-shop.adafruit.com/datasheets/TCS34725.pdf)
