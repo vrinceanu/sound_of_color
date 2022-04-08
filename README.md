@@ -8,4 +8,4 @@ This system has the following parts
 - [Flora Color Sensor with White Illumination LED - TCS34725](https://www.adafruit.com/product/1356) is a 12 pixel sensor with groups of 3 pixels sensitive to red, green, blue and clear light. In addition, it has a bright white LED that illuminates the surface that is probed by the sensor
 - [Flora RGB Smart NeoPixel version 2](https://www.adafruit.com/product/1260) is used to display the color code acquired by the sensor
 
-![Diagramatic representation of the system](/assets/diagram.png)
+![Diagramatic representation of the system](/assets/diagram.png | width=200)
