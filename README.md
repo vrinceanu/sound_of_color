@@ -1,6 +1,6 @@
 # sound of color
 
-An exploration of the physics and the physiology of light and acoustic waves.
+An exploration of the physics and the perception (physiology) of light and acoustic waves.
 
 This system has the following parts
 
