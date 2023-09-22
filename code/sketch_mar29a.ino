@@ -79,6 +79,7 @@ void loop() {
   delay(60);  // it takes 50 ms to read
   tcs.getRawData(&red, &green, &blue, &clear);
   state = (clear < CLEARTHRESHHOLD)? LOW : HIGH;  //test if finger is down
+// the color hue is converted to a musical note note code = hue/21 +  57
   note = hue(red, green, blue)/21 + 57;
   Serial.print("State: "); Serial.print(state);
   Serial.print(" R: "); Serial.print(red);  
@@ -103,7 +104,7 @@ void loop() {
 }
 
 
-
+// code that combines the red, green and blue components are returns a single number (hue)
 int hue(uint16_t r, uint16_t g, uint16_t b){
   uint16_t rgbMin, rgbMax;
   uint8_t h;
